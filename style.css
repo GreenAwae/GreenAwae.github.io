@@ -1,0 +1,10 @@
+#centralnav{
+    display: flex;
+    justify-content: center;
+}
+
+
+#centralnav > *{
+    margin-left: 5px;
+    margin-right: 5px;
+}
